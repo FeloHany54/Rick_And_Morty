@@ -1,3 +1,5 @@
+Rich & Morty App : This app get Rich & Morty characters from API and show every character informations
+Tools used : BLoC State Management , Dio , Flutter Offline , API
 ![Image](https://github.com/user-attachments/assets/cf7fc17f-f04f-4f08-89fa-6ea16eefd5a3)
 ![Image](https://github.com/user-attachments/assets/311d4d35-eb18-4a5a-8bd7-bb1336406235)
 ![Image](https://github.com/user-attachments/assets/4d6a6f1e-280d-4e7e-9aaa-6a74417005d9)
