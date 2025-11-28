@@ -1,16 +1,9 @@
-# learning_bloc
+Rich & Morty App : This app get Rich & Morty characters from API and show every character informations
 
-A new Flutter project.
+Tools used : BLoC State Management , Dio , Flutter Offline , API
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Image](https://github.com/user-attachments/assets/cf7fc17f-f04f-4f08-89fa-6ea16eefd5a3)
+![Image](https://github.com/user-attachments/assets/311d4d35-eb18-4a5a-8bd7-bb1336406235)
+![Image](https://github.com/user-attachments/assets/4d6a6f1e-280d-4e7e-9aaa-6a74417005d9)
+![Image](https://github.com/user-attachments/assets/04813107-3c36-471d-add2-6a8868c719ec)
